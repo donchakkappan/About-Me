@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats:
 ![Don Chakkappan's github stats](https://github-readme-stats.vercel.app/api?username=donchakkappan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-[linkedin]: https://linkedin.com/in/donchakkappan
+[linkedin]: https://linkedin.com/in/don-chakkappan
 [github]: https://github.com/donchakkappan
 [stackoverflow]: https://stackoverflow.com/users/2221895/don-chakkappan
 [leetcode]: https://leetcode.com/donchakkappan/
