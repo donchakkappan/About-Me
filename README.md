@@ -3,9 +3,7 @@
 <!--
 **donchakkappan/donchakkappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-This is the place where I opensource stuff and break things 🤣
-
-- ⚙️ I’m currently working on various Mobile technologies
+- 📱 I’m currently working on various Mobile technologies
 - 👨🏻‍💻 I’m currently learning Advanced Data Structures and Algorithms
 - 👥 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/donchakkappan/donchakkappan/issues) related to <b>Android application Development using Java,Kotlin, Xamarin or React Native</b>
