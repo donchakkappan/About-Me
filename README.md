@@ -9,17 +9,17 @@
 - 💬 Ask me anything [here](https://github.com/donchakkappan/donchakkappan/issues) related to <b>Android application Development using Java,Kotlin, Xamarin or React Native</b>
 - 📫 How to reach me: [@donchakkappan][linkedin] or say 👋 on Email at [Don Chakkappan](mailto:donchakkappan@gmail.com)
 
-### Love to participate in:
+### Actively participating in:
 
-[<img align="left" alt="donchakkappan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="donchakkappan | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="donchakkappan | StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
+[<img align="left" alt="donchakkappan | LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="donchakkappan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="donchakkappan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="donchakkappan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="donchakkappan | GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 
 <br />
 
