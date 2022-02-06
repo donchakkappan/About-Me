@@ -4,7 +4,7 @@
 **donchakkappan/donchakkappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 📱 I’m currently working on various Mobile technologies
-- 👨🏻‍💻 I’m currently learning Advanced Data Structures and Algorithms
+- 👨🏻‍💻 On a mission to be an expert in Advanced Data Structures and Algorithms
 - 👥 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/donchakkappan/donchakkappan/issues) related to <b>Android application Development using Java,Kotlin, Xamarin or React Native</b>
 - 📫 How to reach me: [@donchakkappan][linkedin] or say 👋 on Email at [Don Chakkappan](mailto:donchakkappan@gmail.com)
