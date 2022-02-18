@@ -9,35 +9,51 @@
 - 💬 Ask me anything [here](https://github.com/donchakkappan/donchakkappan/issues) related to <b>Android application Development using Java,Kotlin, Xamarin or React Native</b>
 - 📫 How to reach me: [@donchakkappan][linkedin] or say 👋 on Email at [Don Chakkappan](mailto:donchakkappan@gmail.com)
 
-### Actively participating in:
+---
 
-[<img align="left" alt="donchakkappan | StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
-[<img align="left" alt="donchakkappan | LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=2221895)](https://stackoverflow.com/users/2221895/don-chakkappan) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=donchakkappan"/>|
+|---|---|
+ 
+ ---
 
-<br />
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/don-chakkappan/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/donchakkappan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/donchakkappan/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
+</a>
+ 
+<a href="https://stackoverflow.com/users/2221895/don-chakkappan" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 
-### Connect with me:
+</div>
 
-[<img align="left" alt="donchakkappan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="donchakkappan | GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+## Technical Skills 🛠
 
-<br />
+<p align="center"> 
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
-### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-<br />
-
-### 📊 GitHub Stats:
-![Don Chakkappan's github stats](https://github-readme-stats.vercel.app/api?username=donchakkappan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=donchakkappan&show_icons=true&theme=cobalt"></img>
+</div>
 
 [linkedin]: https://linkedin.com/in/don-chakkappan
 [github]: https://github.com/donchakkappan
